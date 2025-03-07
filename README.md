@@ -14,21 +14,21 @@ Features:
 
 
 How to Use:
-1. Set the environment variables according to the bot and ai tokens:
+1. Set the environment variables according to the bot and ai tokens:\
+`PS C:\Programming\ai-tg-bot> $env:TELEGRAM_TOKEN="tgBotToken"` \
+`PS C:\Programming\ai-tg-bot> $env:HUGGINGFACE_TOKEN="AiToken"` \
+(For windows) 
 
-`PS C:\Programming\ai-tg-bot> $env:TELEGRAM_TOKEN="tgBotToken" `
-`PS C:\Programming\ai-tg-bot> $env:HUGGINGFACE_TOKEN="AiToken"`
-(For windows)
-2. Run main.go in terminal
-`PS C:\Programming\ai-tg-bot> go run main.go`
-3. Go to telegram `@ai_golang_bot` 
-4. Start the bot by typing `/start`.
-5. Write your prompt in English. For example:
+3. Run main.go in terminal:\
+               `PS C:\Programming\ai-tg-bot> go run main.go`
+4. Go to telegram `@ai_golang_bot` 
+5. Start the bot by typing `/start`.
+6. Write your prompt in English. For example:
    - "A futuristic city at night"
    - "A cute cat wearing a hat"
    - "A magical forest with glowing mushrooms"
-6. Wait for a while and bot generates your image.
-7. Enjoy your unique creation! 
+7. Wait for a while and bot generates your image.
+8. Enjoy your unique creation! 
 
 
 Technical Details:
