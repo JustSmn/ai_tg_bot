@@ -35,6 +35,6 @@ Technical Details:
 - Model: `stabilityai/stable-diffusion-2-1` (via Hugging Face).
 - Language: English only (for now).
 - Version: 1.0.0 (2025 release).
-- Creator: JustSMN ъ
+- Creator: JustSMN 
 - Contact in telegram: @Just_Semen228
 - Special Thanks: I know you won't see this, but I still love you.
