@@ -15,9 +15,9 @@ Features:
 
 How to Use:
 1. Set the environment variables according to the bot and ai tokens:
-`
-PS C:\Programming\ai-tg-bot> $env:TELEGRAM_TOKEN="tgBotToken"
-PS C:\Programming\ai-tg-bot> $env:HUGGINGFACE_TOKEN="AiToken"`
+
+`PS C:\Programming\ai-tg-bot> $env:TELEGRAM_TOKEN="tgBotToken" `
+`PS C:\Programming\ai-tg-bot> $env:HUGGINGFACE_TOKEN="AiToken"`
 (For windows)
 2. Run main.go in terminal
 `PS C:\Programming\ai-tg-bot> go run main.go`
