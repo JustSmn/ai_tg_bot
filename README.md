@@ -1,8 +1,8 @@
-###########################################################
-#                      GOLANG AI BOT                      #
-#                   Version: 1.0.0 (2025)                 #
-#                   Created by: JustSMN                   #
-###########################################################
+##################################################
+                     GOLANG AI BOT                      
+                  Version: 1.0.0 (2025)                 
+                  Created by: JustSMN                   
+##################################################
 
 Welcome to my tg bot!  
 This Telegram bot generates images based on your text prompts using a powerful free AI model.  
@@ -16,8 +16,12 @@ Features:
 
 
 How to Use:
-1. Set the environment variables according to the bot and ai tokens
-2. Print `go run main.go` in terminal
+1. Set the environment variables according to the bot and ai tokens:
+`PS C:\Programming\ai-tg-bot> $env:TELEGRAM_TOKEN="tgBotToken"
+PS C:\Programming\ai-tg-bot> $env:HUGGINGFACE_TOKEN="AiToken"`
+(For windows)
+2. Run main.go in terminal
+`PS C:\Programming\ai-tg-bot> go run main.go`
 3. Go to telegram `@ai_golang_bot` 
 4. Start the bot by typing `/start`.
 5. Write your prompt in English. For example:
@@ -34,4 +38,4 @@ Technical Details:
 - Version: 1.0.0 (2025 release).
 - Creator: JustSMN ъ
 - Contact in telegram: @Just_Semen228
-- Special Thanks: I know you won't see this, but I still love you so much.
+- Special Thanks: I know you won't see this, but I still love you.
