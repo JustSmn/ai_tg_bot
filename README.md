@@ -14,7 +14,9 @@ Features:
 
 
 How to Use:
-1. Set the environment variables according to the bot and ai tokens:\
+1. Download the libraries:\
+`PS C:\Programming\qrbot> go mod download` 
+2. Set the environment variables according to the bot and ai tokens:\
 `PS C:\Programming\ai-tg-bot> $env:TELEGRAM_TOKEN="tgBotToken"` \
 `PS C:\Programming\ai-tg-bot> $env:HUGGINGFACE_TOKEN="AiToken"` \
 (For windows) 
@@ -29,6 +31,8 @@ How to Use:
    - "A magical forest with glowing mushrooms"
 7. Wait for a while and bot generates your image.
 8. Enjoy your unique creation! 
+
+
 
 
 Technical Details:
