@@ -1,6 +1,6 @@
-"GOLANG AI BOT                      
- Version: 1.0.0 (2025)                 
- Created by: JustSMN "
+GOLANG AI BOT                      
+Version: 1.0.0 (2025)                 
+Created by: JustSMN
 
 Welcome to my tg bot!  
 This Telegram bot generates images based on your text prompts using a powerful free AI model.  
